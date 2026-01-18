@@ -2,7 +2,7 @@ Hello Dosto 👋
 
 # 👨‍💻 Shanu Malik  
 **DevOps Engineer | Implementation & Deployment Engineer**  
-📍 India 🇮🇳 | Noida 
+📍 India IN, UP-Noida
 💼 Open for Hire | Actively looking for new opportunities  
 
 ---
